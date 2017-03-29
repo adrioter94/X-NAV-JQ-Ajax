@@ -1,0 +1,1 @@
+Frase cargada desde text2.txt, cuando se hace click.
